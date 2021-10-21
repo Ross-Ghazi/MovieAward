@@ -16,3 +16,8 @@ Using OMDB public API yu can search for your faviotae movie online and nominate 
 1. Local strage used to save nominated movies
 2. Used Modal to give errors or warnings.
 3. Clikcing on movie photo, you can go to a page with more information about that movie.
+
+### Links
+
+1. https://movieaward.netlify.app/
+2. https://movieawardproject.herokuapp.com/
