@@ -1,0 +1,45 @@
+.SearchBox {
+  margin: auto;
+  margin-top: 7rem;
+  width: 60vw;
+  max-width: 800px;
+}
+
+.nominated {
+  width: 80vw;
+  margin: auto;
+  margin-top: 7rem;
+  max-width: 90rem;
+}
+
+.result {
+  width: 80vw;
+  margin: auto;
+  margin-top: 7rem;
+  max-width: 90rem;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  background: #2a9fd6;
+  border-radius: 15px;
+}
+
+.singleMovieCard {
+  height: 900px;
+  max-width: 30vw;
+  margin: 4rem auto;
+
+  gap: 2rem;
+}
+
+.singleMovieCard img {
+  display: block;
+  max-width: 100%;
+  height: 700px;
+  object-fit: cover;
+  border: 10px solid white;
+}
