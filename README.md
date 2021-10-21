@@ -1,7 +1,6 @@
 # Rottera Movie Awards
 
 Using OMDB public API yu can search for your faviotae movie online and nominate up to 5 movies. You click on the movies, to see more information about that movie.
-.
 
 ## Following Technologies used for this project:
 
